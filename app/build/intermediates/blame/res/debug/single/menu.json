@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\preference.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\menu\\preference.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\second.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\menu\\second.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mfs100_sample.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\menu\\mfs100_sample.xml"
+    }
+]

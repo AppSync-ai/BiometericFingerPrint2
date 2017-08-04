@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="10dp"
+        android:src="@drawable/header_logo" />
+
+    <TextView
+        android:id="@+id/vtptext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@android:color/background_dark"
+        android:textSize="15sp"
+        android:textStyle="normal" />
+
+    <LinearLayout
+        android:id="@+id/userlinear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/header"
+        android:layout_margin="5dp" >
+
+        <ImageView
+            android:id="@+id/batchtext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/user_id" />
+
+        <TextView
+            android:id="@+id/regnumedit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/user_id_box"
+            android:textColor="@android:color/black" />
+
+        <ImageView
+            android:id="@+id/okview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ok_normal"
+            android:clickable="true"
+            android:onClick="onOk" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/inforelative"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/userlinear"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp" >
+
+        <ImageView
+            android:id="@+id/studentpicview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/default_user_pic" />
+
+        <LinearLayout
+            android:id="@+id/rolllinear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/studentpicview"
+            android:orientation="vertical"
+            android:weightSum="2" >
+
+            <TextView
+                android:id="@+id/rollnoview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:text="Roll No:"
+                android:textColor="@android:color/background_dark"
+                android:textSize="15sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/namevaluetext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:text="Name:"
+                android:textColor="@android:color/background_dark"
+                android:textSize="15sp"
+                android:textStyle="normal" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/instatext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rolllinear"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/studentpicview"
+            android:background="@drawable/we_need_your_fingerprint" />
+
+        <ImageView
+            android:id="@+id/dotverifyview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/instatext"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@+id/studentpicview"
+            android:background="@drawable/verification_pending" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/btmrelative"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/inforelative"
+        android:layout_marginTop="10dp" >
+
+        <LinearLayout
+            android:id="@+id/toplinear"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:orientation="horizontal"
+            android:weightSum="3" >
+
+            <ImageView
+                android:id="@+id/numone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:src="@drawable/one" />
+
+            <ImageView
+                android:id="@+id/numtwo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:src="@drawable/two" />
+
+            <ImageView
+                android:id="@+id/numthree"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:src="@drawable/three" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/secondlinear"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/toplinear"
+            android:orientation="horizontal"
+            android:weightSum="3" >
+
+            <ImageView
+                android:id="@+id/numfour"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:src="@drawable/four" />
+
+            <ImageView
+                android:id="@+id/numfive"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:src="@drawable/five" />
+
+            <ImageView
+                android:id="@+id/numsix"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:src="@drawable/six" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/thirdlinear"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/secondlinear"
+            android:orientation="horizontal"
+            android:weightSum="3" >
+
+            <ImageView
+                android:id="@+id/numseven"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:src="@drawable/seven" />
+
+            <ImageView
+                android:id="@+id/numeight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:src="@drawable/eight" />
+
+            <ImageView
+                android:id="@+id/numnine"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:src="@drawable/nine" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/fourthlinear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/thirdlinear"
+            android:orientation="horizontal"
+            android:weightSum="3" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:orientation="horizontal"
+                android:weightSum="2" >
+
+                <ImageView
+                    android:id="@+id/numzero"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/zero"
+                    android:clickable="true" />
+
+                <ImageView
+                    android:id="@+id/numdelete"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/back"
+                    android:clickable="true" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/finger1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/thirdlinear"
+                android:layout_margin="5dp"
+                android:layout_toRightOf="@+id/fourthlinear"
+                android:layout_weight="1"
+                android:src="@drawable/thumb_7" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/veryfylinear"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:weightSum="4" >
+
+        <Button
+            android:id="@+id/init"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="2"
+            android:background="@drawable/connect_device" />
+
+        <ImageView
+            android:id="@+id/veryfyview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="2"
+            android:background="@drawable/verify"
+            android:clickable="true"
+            android:onClick="onVerify" />
+    </LinearLayout>
+
+</RelativeLayout>

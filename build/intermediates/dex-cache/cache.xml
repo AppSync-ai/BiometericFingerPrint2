@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android Projects\My Projects\Vinove Projects\BiometericFingerPrint2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de06f0fb503c73c28e4bc06a0429878af886dcc0">
+        <dex dex="D:\Android Projects\My Projects\Vinove Projects\BiometericFingerPrint2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_486fa1029af35302d9f65b6f6a0e90d9ed1946f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JAWED\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Android Projects\My Projects\Vinove Projects\BiometericFingerPrint2\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_b51f92991dc62f8fb21df38f08e92ceb80c6df91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Projects\My Projects\Vinove Projects\BiometericFingerPrint2\app\libs\ksoap2-android-assembly-2.6.4-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="07807e2efeabd47e4ff827ec198c16cef3c0d0c8">
+        <dex dex="D:\Android Projects\My Projects\Vinove Projects\BiometericFingerPrint2\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.6.4-jar-with-dependencies_ad3d093519c719b517ee9832e67ca5eebfa25524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Projects\My Projects\Vinove Projects\BiometericFingerPrint2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="017dc282569423586bf70b926eb4dcf6ff0b4215">
+        <dex dex="D:\Android Projects\My Projects\Vinove Projects\BiometericFingerPrint2\app\build\intermediates\pre-dexed\debug\instant-run_441ff94bd6d1b0825eb225ca055176cf6b62fcea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Projects\My Projects\Vinove Projects\BiometericFingerPrint2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Android Projects\My Projects\Vinove Projects\BiometericFingerPrint2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_8721dc866de57ec2113d93053804e75d421d8f6a.jar" />
+    </item>
+
+</items>

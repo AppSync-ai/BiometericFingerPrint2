@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\third_layout.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\third_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\student_list_item.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\student_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\eight_layout.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\eight_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\report_list_item.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\report_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_first.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\activity_first.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\seventh_layout.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\seventh_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cam_layout.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\cam_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fourth_layout.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\fourth_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\report_activity.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\report_activity.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_batch_activity.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\select_batch_activity.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fifth_layout.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\fifth_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_activity.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\help_activity.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sixth_layout.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\sixth_layout.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insert_batchactivity.xml",
+        "source": "D:\\Android Projects\\My Projects\\Vinove Projects\\BiometericFingerPrint2\\app\\src\\main\\res\\layout\\insert_batchactivity.xml"
+    }
+]

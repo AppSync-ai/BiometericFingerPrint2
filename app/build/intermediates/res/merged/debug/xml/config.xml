@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:defaultValue="41"
+        android:dialogTitle="MFS100 Version"
+        android:entries="@array/MFS100Ver"
+        android:entryValues="@array/MFS100Ver"
+        android:key="MFSVer"
+        android:title="MFS100 Version" />
+
+</PreferenceScreen>
